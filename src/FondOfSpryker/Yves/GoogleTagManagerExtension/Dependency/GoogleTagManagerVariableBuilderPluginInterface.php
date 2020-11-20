@@ -1,8 +1,8 @@
 <?php
 
-namespace FondOfSpryker\Yves\GoogleTagManagerCore\Dependency;
+namespace FondOfSpryker\Yves\GoogleTagManagerExtension\Dependency;
 
-interface GoogleTagManagerVariableBuilderPlugin
+interface GoogleTagManagerVariableBuilderPluginInterface
 {
     /**
      * @param string $page
