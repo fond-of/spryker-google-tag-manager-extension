@@ -2,8 +2,6 @@
 
 namespace FondOfSpryker\Yves\GoogleTagManagerExtension\Dependency;
 
-use Generated\Shared\Transfer\GoogleTagManagerTransfer;
-
 interface GoogleTagManagerDataLayerExpanderPluginInterface
 {
     /**
